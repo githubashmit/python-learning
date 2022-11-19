@@ -1,4 +1,5 @@
-n=int(input("Enter number  "))
+#In this code i am diving user's number with 2 ,3 so on till <n(less than n)
+n=int(input("Enter number to check whether it is prime or not= "))
 i=2
 c=0
 while i<n:
